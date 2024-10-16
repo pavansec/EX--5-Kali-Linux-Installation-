@@ -148,3 +148,9 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 
 ![image](https://github.com/user-attachments/assets/2cb7bacb-b34d-46b8-b97a-489c2fb78d75)
 
+---
+
+## Result:
+
+   Kali linux has been successfully installed in the virtualbox.
+
